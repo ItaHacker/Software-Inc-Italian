@@ -263,18 +263,18 @@
     Secondaryrole "Ruolo secondario"
     Budget "Budget"
 #ServerWindow
-    ServerRename "Server name..."
-    Rename "Rename"
-    UnsupportedProc "View unsupported processes"
-    Processes "Processes"
+    ServerRename "Nome del server..."
+    Rename "Rinomina"
+    UnsupportedProc "Vedi i processi non supportati"
+    Processes "Processi"
 #HireWindows
-    Beginlooking "Begin looking"
-    Remove10 "Remove 10"
-    Interview "Interview"
+    Beginlooking "Comincia a cercare"
+    Remove10 "Rimuovi 10"
+    Interview "Intervista"
 #EducationWindow
-    Starteducation "Start education"
-    ProjectCourseDesc "Project management allows a leader to take over a development cycle by automatically designing new products and delegating work to specific teams."
-    HRCourseDesc "HR management allows a leader to take over HR responsibilities, like hiring, firing, settling disputes, raises and education."
+    Starteducation "Avvia l'educazione"
+    ProjectCourseDesc "La gestione dei progetti consente a un leader di assumere il controllo di un ciclo di sviluppo progettando automaticamente nuovi prodotti e delegando il lavoro a team specifici."
+    HRCourseDesc "La gestione delle risorse umane consente a un leader di assumersi le responsabilità delle risorse umane, come l'assunzione, il licenziamento, la risoluzione delle controversie, gli aumenti e l'istruzione."
 #DistributionWindow
     MakeDeal "Make deal"
     Takeoffline "Take offline"
